@@ -1,2 +1,2 @@
-# wmnft
-WebMason NFT's
+# WebMason NFT's
+Soon
